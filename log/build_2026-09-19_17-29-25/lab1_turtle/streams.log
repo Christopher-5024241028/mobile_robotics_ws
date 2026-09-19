@@ -1,0 +1,22 @@
+[1.404s] Invoking command in '/home/christooo/mobile_robotics_ws/build/lab1_turtle': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/christooo/mobile_robotics_ws/build/lab1_turtle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/christooo/mobile_robotics_ws/install/lab1_turtle/lib/python3.14/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/christooo/mobile_robotics_ws/build/lab1_turtle/build --no-deps symlink_data
+[1.775s] running develop
+[1.985s] running egg_info
+[2.006s] creating lab1_turtle.egg-info
+[2.006s] writing lab1_turtle.egg-info/PKG-INFO
+[2.007s] writing dependency_links to lab1_turtle.egg-info/dependency_links.txt
+[2.007s] writing entry points to lab1_turtle.egg-info/entry_points.txt
+[2.007s] writing requirements to lab1_turtle.egg-info/requires.txt
+[2.008s] writing top-level names to lab1_turtle.egg-info/top_level.txt
+[2.008s] writing manifest file 'lab1_turtle.egg-info/SOURCES.txt'
+[2.052s] reading manifest file 'lab1_turtle.egg-info/SOURCES.txt'
+[2.053s] writing manifest file 'lab1_turtle.egg-info/SOURCES.txt'
+[2.076s] running build_ext
+[2.076s] Creating /home/christooo/mobile_robotics_ws/install/lab1_turtle/lib/python3.14/site-packages/lab1-turtle.egg-link (link to .)
+[2.078s] Installing circle_driver script to /home/christooo/mobile_robotics_ws/install/lab1_turtle/lib/lab1_turtle
+[2.078s] 
+[2.078s] Installed /home/christooo/mobile_robotics_ws/build/lab1_turtle
+[2.078s] running symlink_data
+[2.079s] creating /home/christooo/mobile_robotics_ws/install/lab1_turtle/share/ament_index/resource_index/packages
+[2.079s] symbolically linking /home/christooo/mobile_robotics_ws/build/lab1_turtle/resource/lab1_turtle -> /home/christooo/mobile_robotics_ws/install/lab1_turtle/share/ament_index/resource_index/packages
+[2.079s] symbolically linking /home/christooo/mobile_robotics_ws/build/lab1_turtle/package.xml -> /home/christooo/mobile_robotics_ws/install/lab1_turtle/share/lab1_turtle
+[2.139s] Invoked command in '/home/christooo/mobile_robotics_ws/build/lab1_turtle' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/christooo/mobile_robotics_ws/build/lab1_turtle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/christooo/mobile_robotics_ws/install/lab1_turtle/lib/python3.14/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/christooo/mobile_robotics_ws/build/lab1_turtle/build --no-deps symlink_data

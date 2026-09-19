@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing lab1_turtle.egg-info/PKG-INFO
+writing dependency_links to lab1_turtle.egg-info/dependency_links.txt
+writing entry points to lab1_turtle.egg-info/entry_points.txt
+writing requirements to lab1_turtle.egg-info/requires.txt
+writing top-level names to lab1_turtle.egg-info/top_level.txt
+reading manifest file 'lab1_turtle.egg-info/SOURCES.txt'
+writing manifest file 'lab1_turtle.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/christooo/mobile_robotics_ws/install/lab1_turtle/lib/python3.14/site-packages/lab1-turtle.egg-link (link to .)
+Installing circle_driver script to /home/christooo/mobile_robotics_ws/install/lab1_turtle/lib/lab1_turtle
+
+Installed /home/christooo/mobile_robotics_ws/build/lab1_turtle
+running symlink_data
